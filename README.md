@@ -71,7 +71,7 @@ In the future (when the engine won't be a WIP anymore) we're gonna also publish 
   - Release excutable mods that use Codename Engine as source (Specifing that uses Codename Engine by for example the same way written above this)
   - Release modpacks
 
-  ### You can't:
+  ### You can't:.
   - Create a *side/new/etc* engine (or mod that doesn't use Codename Engine) using Codename Engine's code
   - Steal code from Codename Engine for another different project that is not Codename Engine related (Codename Engine mods excluded) without properly crediting
   - Release the entire Codename Engine on platforms (Mods that use Codename Engine as source are fine, if it's specified even better)
