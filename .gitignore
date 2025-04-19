@@ -9,5 +9,5 @@ latest/windows/haxe/
 pages/
 docs/doc.xml
 mods/*
-!mods/MCM/*
+mods/MCM/*
 !mods/readme.txt
