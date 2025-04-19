@@ -8,6 +8,4 @@ latest/windows/haxe/
 .haxelib/
 pages/
 docs/doc.xml
-mods/*
-mods/MCM/*
 !mods/readme.txt
