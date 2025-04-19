@@ -1,0 +1,10 @@
+putting this here so me or the others don't forget -athen
+
+comment out chart editor and mod menu access 
+remove humi score reset button
+remove developer options
+compile the build
+remove the .git folder
+check the credits again and get everyone's quotes if possible
+remove the menu shortcut from global.hx
+ALSO REMOVE THIS FILE LMAO
