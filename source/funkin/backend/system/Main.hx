@@ -180,7 +180,7 @@ class Main extends Sprite
 
 		ModsFolder.init();
 		#if MOD_SUPPORT
-		ModsFolder.switchMod(modToLoad.getDefault(Options.lastLoadedMod));
+		ModsFolder.switchMod(modToLoad.getDefault("MCM"));
 		#end
 
 		initTransition();
