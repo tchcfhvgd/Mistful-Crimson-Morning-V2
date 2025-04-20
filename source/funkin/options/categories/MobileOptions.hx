@@ -34,10 +34,6 @@ class MobileOptions extends OptionsScreen {
 			1.0,
 			0.1,
 			"hitboxAlpha"));
-		add(new Checkbox(
-			"Use Old Pad Texture",
-			"If checked, the TouchPad will use the old texture it used before",
-			"oldPadTexture"));
 		add(new NumOption(
 			"TouchPad Opacity",
 			"Change how opaque the TouchPad should be",
